@@ -48,9 +48,9 @@ html {
 }
 
 .btn-light {
-  background-color: #522806;
-  border-color: #522806;
-  color: #fff;
+  background-color: #c0a69a;
+  border-color: #c0a69a;
+  color: #512b10;
 }
 
 .btn-light:hover,
@@ -60,15 +60,15 @@ html {
 }
 
 .btn-banner {
-  border-color: #fff;
+  border-color: #c0a69a;
   color: #fff;
 }
 
 .btn-banner:hover,
 .btn-banner:focus {
   background-color: #ffeae1;
-  border-color: #fff;
-  color: #522806;
+  border-color: #ffeb3b;
+  color: #fff;
 }
 
 .footer {
