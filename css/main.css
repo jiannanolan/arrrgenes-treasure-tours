@@ -5,7 +5,7 @@ html {
 
 .masthead {
   background-color: #522806;
-  border-bottom: .3rem solid #bea59b;
+  border-bottom: .3rem solid #ffeae1;
   color: #fff;
 }
 
@@ -28,7 +28,7 @@ html {
 }
 
 .nav a span {
-  border-bottom: .3rem solid #bea59b;
+  border-bottom: .3rem solid #ffeae1;
 }
 
 .nav a:hover span,
@@ -43,14 +43,14 @@ html {
 
 .card {
   min-height: 22em;
-  border: .3rem solid #bea59b;
+  border: .3rem solid #ffeae1;
   border-radius: 4px;
 }
 
 .btn-light {
-  background-color: #bea59b;
-  border-color: #bea59b;
-  color: #522806;
+  background-color: #522806;
+  border-color: #522806;
+  color: #fff;
 }
 
 .btn-light:hover,
@@ -60,20 +60,20 @@ html {
 }
 
 .btn-banner {
-  border-color: #bea59b;
+  border-color: #ffeae1;
   color: #fff;
 }
 
 .btn-banner:hover,
 .btn-banner:focus {
-  background-color: #bea59b;
+  background-color: #ffeae1;
   border-color: #fff;
   color: #522806;
 }
 
 .footer {
   background-color: #522806;
-  border-top: .3rem solid #bea59b;
+  border-top: .3rem solid #ffeae1;
   color: #fff;
 }
 
