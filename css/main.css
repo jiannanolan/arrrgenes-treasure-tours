@@ -60,21 +60,21 @@ html {
 }
 
 .btn-banner {
-  border-color: #c0a69a;
+  border-color: #fff;
   color: #fff;
 }
 
 .btn-banner:hover,
 .btn-banner:focus {
-  background-color: #ffeae1;
+  background-color: #ffeb3b;
   border-color: #ffeb3b;
-  color: #fff;
+  color: #000;
 }
 
 .footer {
   background-color: #522806;
   border-top: .3rem solid #ffeae1;
-  color: #fff;
+  color: #ffeb3b;
 }
 
 @media only screen and (min-width: 38em) {
