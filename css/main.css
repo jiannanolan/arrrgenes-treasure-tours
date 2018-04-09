@@ -28,12 +28,16 @@ html {
 }
 
 .nav a span {
-  border-bottom: .3rem solid #c0a69a;
+  border-bottom: .3rem solid #156eff;
 }
 
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #156eff;
+}
+
+.nav a:focus {
+  outline: .3rem solid #fff;
 }
 
 header {
@@ -42,8 +46,12 @@ header {
 
 .banner {
   min-height: 16em;
+  background-color: #522806;
   color: #fff;
-  width: 100%;
+}
+
+.banner-content a:focus {
+  outline: .3rem solid #fff;
 }
 
 .card {
@@ -73,7 +81,7 @@ header {
 .btn-banner:focus {
   background-color: #ffeb3b;
   border-color: #ffeb3b;
-  color: #c0a69a;
+  color: #156eff;
 }
 
 .footer {
