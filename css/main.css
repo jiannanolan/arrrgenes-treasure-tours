@@ -5,7 +5,7 @@ html {
 
 .masthead {
   background-color: #522806;
-  border-bottom: .3rem solid #ffeae1;
+  border-bottom: .3rem solid #c0a69a;
   color: #fff;
 }
 
@@ -28,7 +28,7 @@ html {
 }
 
 .nav a span {
-  border-bottom: .3rem solid #ffeae1;
+  border-bottom: .3rem solid #c0a69a;
 }
 
 .nav a:hover span,
@@ -36,14 +36,19 @@ html {
   border-bottom-color: #fff;
 }
 
+header {
+  width: 100%;
+}
+
 .banner {
   min-height: 16em;
   color: #fff;
+  width: 100%;
 }
 
 .card {
   min-height: 22em;
-  border: .3rem solid #ffeae1;
+  border: .3rem solid #c0a69a;
   border-radius: 4px;
 }
 
@@ -68,13 +73,13 @@ html {
 .btn-banner:focus {
   background-color: #ffeb3b;
   border-color: #ffeb3b;
-  color: #000;
+  color: #c0a69a;
 }
 
 .footer {
   background-color: #522806;
-  border-top: .3rem solid #ffeae1;
-  color: #ffeb3b;
+  border-top: .3rem solid #c0a69a;
+  color: #fff;
 }
 
 @media only screen and (min-width: 38em) {
